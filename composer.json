@@ -1,0 +1,27 @@
+{
+  "name": "summer/guomi-package",
+  "description": "php版本国密加解密",
+  "autoload": {
+    "psr-4": {
+      "Summer\\GuomiPackage\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "chuyumi",
+      "email": "13041203572@163.com"
+    }
+  ],
+  "require": {
+    "summer/guomi": "^1.0"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://repo.packagist.com/summer-guomi-php/"
+    },
+    {
+      "packagist.org": false
+    }
+  ]
+}
