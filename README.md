@@ -1,1 +1,1 @@
-# stac-guomi
+# guomi-package
